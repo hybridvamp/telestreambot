@@ -21,7 +21,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🎵 Support Chat", url="https://t.me/safothebot"
+                        "🎵 Support Chat", url="https://t.me/ALPHA_MOVIE_GROUP"
                     )
                 ]
             ]
