@@ -34,11 +34,11 @@ async def start(client, m: Message):
                             reply_markup=InlineKeyboardMarkup(
                                 [[
                                      InlineKeyboardButton(
-                                            "Dev", url="https://t.me/AmiFutami")
+                                            "Dev", url="https://t.me/Alpha_movie_updates")
                                     ]]
                             ))
    else:
-      await m.reply_text(f"**Hola, Join @AsmSafone!**")
+      await m.reply_text(f"**Hola, Join @Alpha_movie_updates!**")
 
 
 @Client.on_message(filters.command("ping"))
