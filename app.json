@@ -7,9 +7,9 @@
         "Telegram Bot",
         "Vidio Vc Steramer"
     ],
-    "website": "https://t.me/AsmSafone",
-    "repository": "https://github.com/Achu2234/YuiVidioPlayer",
-    "success_url": "https://t.me/AsmSafone",
+    "website": "https://t.me/Alpha_movie_updates",
+    "repository": "https://github.com/zainulhibath/telestreambot",
+    "success_url": "https://t.me/Alpha_movie_updates",
     "env": {
         "API_ID": {
             "description": "Your APP_ID from my.telegram.org",
