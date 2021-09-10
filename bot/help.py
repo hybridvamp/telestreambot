@@ -13,7 +13,7 @@ async def help(client: Client, message: Message):
         f"""<b>Hi {message.from_user.first_name}!
 Setting up
 1) Add this Bot to your Group and Make it Admin 
-2) Add @YuiVideoPlayer to your Group 
+2) Add @Bxjksjkm to your Group 
 Commands
 =>> Vidio Playing 🎧
 - /stream : Reply to Video or File That You Want To stream In Vc.
@@ -28,7 +28,7 @@ Commands
             [
                 [
                     InlineKeyboardButton(
-                        "🎵 Support Chat", url="https://t.me/safothebot"
+                        "🎵 Support Chat", url="https://t.me/ALPHA_MOVIE_GROUP"
                     )
                 ]
             ]
